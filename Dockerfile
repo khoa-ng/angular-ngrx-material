@@ -16,3 +16,4 @@ RUN npm install --silent
 
 # start app
 CMD ["npm", "run", "docker-start"]
+
